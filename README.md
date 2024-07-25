@@ -1,8 +1,8 @@
-# BD-para-la-radicacion-de-documentos-
+# BD-Para-la-radicacion-de-documentos-en-una-empresa
 
 Descripción:
 
-Esta repositorio contiene la base de datos para el consecutivo de la radicacion de documentos de una empresa tales como actas y resoluciones.
+Esta repositorio contiene la base de datos para el consecutivo de la radicacion de documentos de expide una empresa.
 
 Contenido:
 
