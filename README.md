@@ -2,7 +2,7 @@
 
 Descripción:
 
-Esta repositorio contiene la base de datos para el consecutivo de la radicacion de documentos de expide una empresa.
+Esta repositorio contiene la base de datos para el consecutivo de la radicacion de documentos (actas y resoluciones) que expide una organizacion del estado.
 
 Contenido:
 
@@ -35,7 +35,7 @@ Tabla 5: Area y/o dependencia
 Tabla 6: Acta
 
 
-Tabla 7: Resolución
+Tabla 7: Resolucion
 
 
 
