@@ -1,9 +1,6 @@
--- --------------------------------------------------------
--- Host:                         190.90.160.172
--- Versión del servidor:         10.6.18-MariaDB-cll-lve-log - MariaDB Server
--- SO del servidor:              Linux
--- HeidiSQL Versión:             10.2.0.5599
--- --------------------------------------------------------
+-- Autor: Wilson Gutierrez Izquierdo
+-- Fecha de creación: 29/07/24
+-- Versión 1
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET NAMES utf8 */;
