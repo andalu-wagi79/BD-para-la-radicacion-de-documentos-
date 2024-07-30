@@ -12,7 +12,7 @@ La base de datos contiene 7 tablas distribuidas de la siguiente manera:
 
 Estructura de la BD
 
-A continuación vremos las tablas que componen la BD, asi:
+A continuación veremos las tablas que componen la BD con sus respectivas llaves primarias, foraneas y relaciones, asi:
 
 Tabla 1: Rol 
 
